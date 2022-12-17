@@ -1,0 +1,9 @@
+canvas{
+    border-radius: 50px;
+    border: 5px outset violet;
+    margin-top: 50px;
+}
+
+body{
+    background-size: cover;
+}
